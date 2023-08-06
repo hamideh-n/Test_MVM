@@ -1,0 +1,48 @@
+D:\New folder (2)\Mvm\00. Framework\Mvm.Framework\obj\Debug\net6.0\Mvm.Framework.csproj.AssemblyReference.cache
+D:\New folder (2)\Mvm\00. Framework\Mvm.Framework\obj\Debug\net6.0\Mvm.Framework.GeneratedMSBuildEditorConfig.editorconfig
+D:\New folder (2)\Mvm\00. Framework\Mvm.Framework\obj\Debug\net6.0\Mvm.Framework.AssemblyInfoInputs.cache
+D:\New folder (2)\Mvm\00. Framework\Mvm.Framework\obj\Debug\net6.0\Mvm.Framework.AssemblyInfo.cs
+D:\New folder (2)\Mvm\00. Framework\Mvm.Framework\obj\Debug\net6.0\Mvm.Framework.csproj.CoreCompileInputs.cache
+D:\New folder (2)\Mvm\00. Framework\Mvm.Framework\bin\Debug\net6.0\Mvm.Framework.deps.json
+D:\New folder (2)\Mvm\00. Framework\Mvm.Framework\bin\Debug\net6.0\Mvm.Framework.dll
+D:\New folder (2)\Mvm\00. Framework\Mvm.Framework\bin\Debug\net6.0\Mvm.Framework.pdb
+D:\New folder (2)\Mvm\00. Framework\Mvm.Framework\obj\Debug\net6.0\Mvm.Framework.dll
+D:\New folder (2)\Mvm\00. Framework\Mvm.Framework\obj\Debug\net6.0\refint\Mvm.Framework.dll
+D:\New folder (2)\Mvm\00. Framework\Mvm.Framework\obj\Debug\net6.0\Mvm.Framework.pdb
+D:\New folder (2)\Mvm\00. Framework\Mvm.Framework\obj\Debug\net6.0\ref\Mvm.Framework.dll
+D:\Mvm\00. Framework\Mvm.Framework\bin\Debug\net6.0\Mvm.Framework.deps.json
+D:\Mvm\00. Framework\Mvm.Framework\bin\Debug\net6.0\Mvm.Framework.dll
+D:\Mvm\00. Framework\Mvm.Framework\bin\Debug\net6.0\Mvm.Framework.pdb
+D:\Mvm\00. Framework\Mvm.Framework\obj\Debug\net6.0\Mvm.Framework.csproj.AssemblyReference.cache
+D:\Mvm\00. Framework\Mvm.Framework\obj\Debug\net6.0\Mvm.Framework.GeneratedMSBuildEditorConfig.editorconfig
+D:\Mvm\00. Framework\Mvm.Framework\obj\Debug\net6.0\Mvm.Framework.AssemblyInfoInputs.cache
+D:\Mvm\00. Framework\Mvm.Framework\obj\Debug\net6.0\Mvm.Framework.AssemblyInfo.cs
+D:\Mvm\00. Framework\Mvm.Framework\obj\Debug\net6.0\Mvm.Framework.csproj.CoreCompileInputs.cache
+D:\Mvm\00. Framework\Mvm.Framework\obj\Debug\net6.0\Mvm.Framework.dll
+D:\Mvm\00. Framework\Mvm.Framework\obj\Debug\net6.0\refint\Mvm.Framework.dll
+D:\Mvm\00. Framework\Mvm.Framework\obj\Debug\net6.0\Mvm.Framework.pdb
+D:\Mvm\00. Framework\Mvm.Framework\obj\Debug\net6.0\ref\Mvm.Framework.dll
+D:\Mvm\src\00. Framework\Mvm.Framework\bin\Debug\net6.0\Mvm.Framework.deps.json
+D:\Mvm\src\00. Framework\Mvm.Framework\bin\Debug\net6.0\Mvm.Framework.dll
+D:\Mvm\src\00. Framework\Mvm.Framework\bin\Debug\net6.0\Mvm.Framework.pdb
+D:\Mvm\src\00. Framework\Mvm.Framework\obj\Debug\net6.0\Mvm.Framework.csproj.AssemblyReference.cache
+D:\Mvm\src\00. Framework\Mvm.Framework\obj\Debug\net6.0\Mvm.Framework.GeneratedMSBuildEditorConfig.editorconfig
+D:\Mvm\src\00. Framework\Mvm.Framework\obj\Debug\net6.0\Mvm.Framework.AssemblyInfoInputs.cache
+D:\Mvm\src\00. Framework\Mvm.Framework\obj\Debug\net6.0\Mvm.Framework.AssemblyInfo.cs
+D:\Mvm\src\00. Framework\Mvm.Framework\obj\Debug\net6.0\Mvm.Framework.csproj.CoreCompileInputs.cache
+D:\Mvm\src\00. Framework\Mvm.Framework\obj\Debug\net6.0\Mvm.Framework.dll
+D:\Mvm\src\00. Framework\Mvm.Framework\obj\Debug\net6.0\refint\Mvm.Framework.dll
+D:\Mvm\src\00. Framework\Mvm.Framework\obj\Debug\net6.0\Mvm.Framework.pdb
+D:\Mvm\src\00. Framework\Mvm.Framework\obj\Debug\net6.0\ref\Mvm.Framework.dll
+H:\Mvm\src\00. Framework\Mvm.Framework\bin\Debug\net6.0\Mvm.Framework.deps.json
+H:\Mvm\src\00. Framework\Mvm.Framework\bin\Debug\net6.0\Mvm.Framework.dll
+H:\Mvm\src\00. Framework\Mvm.Framework\bin\Debug\net6.0\Mvm.Framework.pdb
+H:\Mvm\src\00. Framework\Mvm.Framework\obj\Debug\net6.0\Mvm.Framework.csproj.AssemblyReference.cache
+H:\Mvm\src\00. Framework\Mvm.Framework\obj\Debug\net6.0\Mvm.Framework.GeneratedMSBuildEditorConfig.editorconfig
+H:\Mvm\src\00. Framework\Mvm.Framework\obj\Debug\net6.0\Mvm.Framework.AssemblyInfoInputs.cache
+H:\Mvm\src\00. Framework\Mvm.Framework\obj\Debug\net6.0\Mvm.Framework.AssemblyInfo.cs
+H:\Mvm\src\00. Framework\Mvm.Framework\obj\Debug\net6.0\Mvm.Framework.csproj.CoreCompileInputs.cache
+H:\Mvm\src\00. Framework\Mvm.Framework\obj\Debug\net6.0\Mvm.Framework.dll
+H:\Mvm\src\00. Framework\Mvm.Framework\obj\Debug\net6.0\refint\Mvm.Framework.dll
+H:\Mvm\src\00. Framework\Mvm.Framework\obj\Debug\net6.0\Mvm.Framework.pdb
+H:\Mvm\src\00. Framework\Mvm.Framework\obj\Debug\net6.0\ref\Mvm.Framework.dll

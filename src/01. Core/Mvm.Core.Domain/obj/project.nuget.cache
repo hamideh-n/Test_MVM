@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "CG/Xy8cG9hfj6ihBrDLTBPi9BtF/8Bt9YuFlADy3AU5/z0zz5eFFAfuTWV6JFZkcsH0NqDI1CDoMTY3l259TUw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\naser\\Downloads\\Mvm\\Mvm\\src\\01. Core\\Mvm.Core.Domain\\Mvm.Core.Domain.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\naser\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512"
+  ],
+  "logs": []
+}

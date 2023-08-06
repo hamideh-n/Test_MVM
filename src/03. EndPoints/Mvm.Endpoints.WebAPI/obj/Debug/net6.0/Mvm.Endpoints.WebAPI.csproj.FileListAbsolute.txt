@@ -1,0 +1,298 @@
+D:\New folder (2)\Mvm\03. EndPoints\Mvm.Endpoints.WebAPI\bin\Debug\net6.0\appsettings.Development.json
+D:\New folder (2)\Mvm\03. EndPoints\Mvm.Endpoints.WebAPI\bin\Debug\net6.0\appsettings.json
+D:\New folder (2)\Mvm\03. EndPoints\Mvm.Endpoints.WebAPI\bin\Debug\net6.0\Mvm.Endpoints.WebAPI.exe
+D:\New folder (2)\Mvm\03. EndPoints\Mvm.Endpoints.WebAPI\bin\Debug\net6.0\Mvm.Endpoints.WebAPI.deps.json
+D:\New folder (2)\Mvm\03. EndPoints\Mvm.Endpoints.WebAPI\bin\Debug\net6.0\Mvm.Endpoints.WebAPI.runtimeconfig.json
+D:\New folder (2)\Mvm\03. EndPoints\Mvm.Endpoints.WebAPI\bin\Debug\net6.0\Mvm.Endpoints.WebAPI.dll
+D:\New folder (2)\Mvm\03. EndPoints\Mvm.Endpoints.WebAPI\bin\Debug\net6.0\Mvm.Endpoints.WebAPI.pdb
+D:\New folder (2)\Mvm\03. EndPoints\Mvm.Endpoints.WebAPI\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+D:\New folder (2)\Mvm\03. EndPoints\Mvm.Endpoints.WebAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\New folder (2)\Mvm\03. EndPoints\Mvm.Endpoints.WebAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\New folder (2)\Mvm\03. EndPoints\Mvm.Endpoints.WebAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\New folder (2)\Mvm\03. EndPoints\Mvm.Endpoints.WebAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\New folder (2)\Mvm\03. EndPoints\Mvm.Endpoints.WebAPI\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+D:\New folder (2)\Mvm\03. EndPoints\Mvm.Endpoints.WebAPI\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\New folder (2)\Mvm\03. EndPoints\Mvm.Endpoints.WebAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\New folder (2)\Mvm\03. EndPoints\Mvm.Endpoints.WebAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\New folder (2)\Mvm\03. EndPoints\Mvm.Endpoints.WebAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\New folder (2)\Mvm\03. EndPoints\Mvm.Endpoints.WebAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\New folder (2)\Mvm\03. EndPoints\Mvm.Endpoints.WebAPI\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\New folder (2)\Mvm\03. EndPoints\Mvm.Endpoints.WebAPI\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\New folder (2)\Mvm\03. EndPoints\Mvm.Endpoints.WebAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\New folder (2)\Mvm\03. EndPoints\Mvm.Endpoints.WebAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\New folder (2)\Mvm\03. EndPoints\Mvm.Endpoints.WebAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\New folder (2)\Mvm\03. EndPoints\Mvm.Endpoints.WebAPI\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\New folder (2)\Mvm\03. EndPoints\Mvm.Endpoints.WebAPI\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\New folder (2)\Mvm\03. EndPoints\Mvm.Endpoints.WebAPI\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\New folder (2)\Mvm\03. EndPoints\Mvm.Endpoints.WebAPI\bin\Debug\net6.0\System.Runtime.Caching.dll
+D:\New folder (2)\Mvm\03. EndPoints\Mvm.Endpoints.WebAPI\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\New folder (2)\Mvm\03. EndPoints\Mvm.Endpoints.WebAPI\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\New folder (2)\Mvm\03. EndPoints\Mvm.Endpoints.WebAPI\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\New folder (2)\Mvm\03. EndPoints\Mvm.Endpoints.WebAPI\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\New folder (2)\Mvm\03. EndPoints\Mvm.Endpoints.WebAPI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\New folder (2)\Mvm\03. EndPoints\Mvm.Endpoints.WebAPI\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\New folder (2)\Mvm\03. EndPoints\Mvm.Endpoints.WebAPI\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\New folder (2)\Mvm\03. EndPoints\Mvm.Endpoints.WebAPI\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\New folder (2)\Mvm\03. EndPoints\Mvm.Endpoints.WebAPI\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\New folder (2)\Mvm\03. EndPoints\Mvm.Endpoints.WebAPI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\New folder (2)\Mvm\03. EndPoints\Mvm.Endpoints.WebAPI\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\New folder (2)\Mvm\03. EndPoints\Mvm.Endpoints.WebAPI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\New folder (2)\Mvm\03. EndPoints\Mvm.Endpoints.WebAPI\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\New folder (2)\Mvm\03. EndPoints\Mvm.Endpoints.WebAPI\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\New folder (2)\Mvm\03. EndPoints\Mvm.Endpoints.WebAPI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\New folder (2)\Mvm\03. EndPoints\Mvm.Endpoints.WebAPI\bin\Debug\net6.0\Mvm.Core.ApplicationServices.dll
+D:\New folder (2)\Mvm\03. EndPoints\Mvm.Endpoints.WebAPI\bin\Debug\net6.0\Mvm.Core.Domain.dll
+D:\New folder (2)\Mvm\03. EndPoints\Mvm.Endpoints.WebAPI\bin\Debug\net6.0\Mvm.Framework.dll
+D:\New folder (2)\Mvm\03. EndPoints\Mvm.Endpoints.WebAPI\bin\Debug\net6.0\Mvm.Infrastructures.Data.SqlServer.dll
+D:\New folder (2)\Mvm\03. EndPoints\Mvm.Endpoints.WebAPI\bin\Debug\net6.0\Mvm.Framework.pdb
+D:\New folder (2)\Mvm\03. EndPoints\Mvm.Endpoints.WebAPI\bin\Debug\net6.0\Mvm.Core.ApplicationServices.pdb
+D:\New folder (2)\Mvm\03. EndPoints\Mvm.Endpoints.WebAPI\bin\Debug\net6.0\Mvm.Core.Domain.pdb
+D:\New folder (2)\Mvm\03. EndPoints\Mvm.Endpoints.WebAPI\bin\Debug\net6.0\Mvm.Infrastructures.Data.SqlServer.pdb
+D:\New folder (2)\Mvm\03. EndPoints\Mvm.Endpoints.WebAPI\obj\Debug\net6.0\Mvm.Endpoints.WebAPI.csproj.AssemblyReference.cache
+D:\New folder (2)\Mvm\03. EndPoints\Mvm.Endpoints.WebAPI\obj\Debug\net6.0\Mvm.Endpoints.WebAPI.GeneratedMSBuildEditorConfig.editorconfig
+D:\New folder (2)\Mvm\03. EndPoints\Mvm.Endpoints.WebAPI\obj\Debug\net6.0\Mvm.Endpoints.WebAPI.AssemblyInfoInputs.cache
+D:\New folder (2)\Mvm\03. EndPoints\Mvm.Endpoints.WebAPI\obj\Debug\net6.0\Mvm.Endpoints.WebAPI.AssemblyInfo.cs
+D:\New folder (2)\Mvm\03. EndPoints\Mvm.Endpoints.WebAPI\obj\Debug\net6.0\Mvm.Endpoints.WebAPI.csproj.CoreCompileInputs.cache
+D:\New folder (2)\Mvm\03. EndPoints\Mvm.Endpoints.WebAPI\obj\Debug\net6.0\Mvm.Endpoints.WebAPI.MvcApplicationPartsAssemblyInfo.cs
+D:\New folder (2)\Mvm\03. EndPoints\Mvm.Endpoints.WebAPI\obj\Debug\net6.0\Mvm.Endpoints.WebAPI.MvcApplicationPartsAssemblyInfo.cache
+D:\New folder (2)\Mvm\03. EndPoints\Mvm.Endpoints.WebAPI\obj\Debug\net6.0\staticwebassets\msbuild.Mvm.Endpoints.WebAPI.Microsoft.AspNetCore.StaticWebAssets.props
+D:\New folder (2)\Mvm\03. EndPoints\Mvm.Endpoints.WebAPI\obj\Debug\net6.0\staticwebassets\msbuild.build.Mvm.Endpoints.WebAPI.props
+D:\New folder (2)\Mvm\03. EndPoints\Mvm.Endpoints.WebAPI\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Mvm.Endpoints.WebAPI.props
+D:\New folder (2)\Mvm\03. EndPoints\Mvm.Endpoints.WebAPI\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Mvm.Endpoints.WebAPI.props
+D:\New folder (2)\Mvm\03. EndPoints\Mvm.Endpoints.WebAPI\obj\Debug\net6.0\staticwebassets.pack.json
+D:\New folder (2)\Mvm\03. EndPoints\Mvm.Endpoints.WebAPI\obj\Debug\net6.0\staticwebassets.build.json
+D:\New folder (2)\Mvm\03. EndPoints\Mvm.Endpoints.WebAPI\obj\Debug\net6.0\staticwebassets.development.json
+D:\New folder (2)\Mvm\03. EndPoints\Mvm.Endpoints.WebAPI\obj\Debug\net6.0\scopedcss\bundle\Mvm.Endpoints.WebAPI.styles.css
+D:\New folder (2)\Mvm\03. EndPoints\Mvm.Endpoints.WebAPI\obj\Debug\net6.0\Mvm.Endpoints.WebAPI.csproj.CopyComplete
+D:\New folder (2)\Mvm\03. EndPoints\Mvm.Endpoints.WebAPI\obj\Debug\net6.0\Mvm.Endpoints.WebAPI.dll
+D:\New folder (2)\Mvm\03. EndPoints\Mvm.Endpoints.WebAPI\obj\Debug\net6.0\refint\Mvm.Endpoints.WebAPI.dll
+D:\New folder (2)\Mvm\03. EndPoints\Mvm.Endpoints.WebAPI\obj\Debug\net6.0\Mvm.Endpoints.WebAPI.pdb
+D:\New folder (2)\Mvm\03. EndPoints\Mvm.Endpoints.WebAPI\obj\Debug\net6.0\Mvm.Endpoints.WebAPI.genruntimeconfig.cache
+D:\New folder (2)\Mvm\03. EndPoints\Mvm.Endpoints.WebAPI\obj\Debug\net6.0\ref\Mvm.Endpoints.WebAPI.dll
+D:\New folder (2)\Mvm\03. EndPoints\Mvm.Endpoints.WebAPI\bin\Debug\net6.0\FluentValidation.dll
+D:\New folder (2)\Mvm\03. EndPoints\Mvm.Endpoints.WebAPI\bin\Debug\net6.0\FluentValidation.AspNetCore.dll
+D:\New folder (2)\Mvm\03. EndPoints\Mvm.Endpoints.WebAPI\bin\Debug\net6.0\FluentValidation.DependencyInjectionExtensions.dll
+D:\Mvm\03. EndPoints\Mvm.Endpoints.WebAPI\bin\Debug\net6.0\appsettings.Development.json
+D:\Mvm\03. EndPoints\Mvm.Endpoints.WebAPI\bin\Debug\net6.0\appsettings.json
+D:\Mvm\03. EndPoints\Mvm.Endpoints.WebAPI\bin\Debug\net6.0\Mvm.Endpoints.WebAPI.exe
+D:\Mvm\03. EndPoints\Mvm.Endpoints.WebAPI\bin\Debug\net6.0\Mvm.Endpoints.WebAPI.deps.json
+D:\Mvm\03. EndPoints\Mvm.Endpoints.WebAPI\bin\Debug\net6.0\Mvm.Endpoints.WebAPI.runtimeconfig.json
+D:\Mvm\03. EndPoints\Mvm.Endpoints.WebAPI\bin\Debug\net6.0\Mvm.Endpoints.WebAPI.dll
+D:\Mvm\03. EndPoints\Mvm.Endpoints.WebAPI\bin\Debug\net6.0\Mvm.Endpoints.WebAPI.pdb
+D:\Mvm\03. EndPoints\Mvm.Endpoints.WebAPI\bin\Debug\net6.0\FluentValidation.dll
+D:\Mvm\03. EndPoints\Mvm.Endpoints.WebAPI\bin\Debug\net6.0\FluentValidation.AspNetCore.dll
+D:\Mvm\03. EndPoints\Mvm.Endpoints.WebAPI\bin\Debug\net6.0\FluentValidation.DependencyInjectionExtensions.dll
+D:\Mvm\03. EndPoints\Mvm.Endpoints.WebAPI\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+D:\Mvm\03. EndPoints\Mvm.Endpoints.WebAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\Mvm\03. EndPoints\Mvm.Endpoints.WebAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Mvm\03. EndPoints\Mvm.Endpoints.WebAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Mvm\03. EndPoints\Mvm.Endpoints.WebAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Mvm\03. EndPoints\Mvm.Endpoints.WebAPI\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+D:\Mvm\03. EndPoints\Mvm.Endpoints.WebAPI\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Mvm\03. EndPoints\Mvm.Endpoints.WebAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\Mvm\03. EndPoints\Mvm.Endpoints.WebAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\Mvm\03. EndPoints\Mvm.Endpoints.WebAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Mvm\03. EndPoints\Mvm.Endpoints.WebAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\Mvm\03. EndPoints\Mvm.Endpoints.WebAPI\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\Mvm\03. EndPoints\Mvm.Endpoints.WebAPI\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\Mvm\03. EndPoints\Mvm.Endpoints.WebAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Mvm\03. EndPoints\Mvm.Endpoints.WebAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Mvm\03. EndPoints\Mvm.Endpoints.WebAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Mvm\03. EndPoints\Mvm.Endpoints.WebAPI\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\Mvm\03. EndPoints\Mvm.Endpoints.WebAPI\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\Mvm\03. EndPoints\Mvm.Endpoints.WebAPI\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Mvm\03. EndPoints\Mvm.Endpoints.WebAPI\bin\Debug\net6.0\System.Runtime.Caching.dll
+D:\Mvm\03. EndPoints\Mvm.Endpoints.WebAPI\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\Mvm\03. EndPoints\Mvm.Endpoints.WebAPI\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\Mvm\03. EndPoints\Mvm.Endpoints.WebAPI\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\Mvm\03. EndPoints\Mvm.Endpoints.WebAPI\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Mvm\03. EndPoints\Mvm.Endpoints.WebAPI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Mvm\03. EndPoints\Mvm.Endpoints.WebAPI\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Mvm\03. EndPoints\Mvm.Endpoints.WebAPI\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Mvm\03. EndPoints\Mvm.Endpoints.WebAPI\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Mvm\03. EndPoints\Mvm.Endpoints.WebAPI\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Mvm\03. EndPoints\Mvm.Endpoints.WebAPI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\Mvm\03. EndPoints\Mvm.Endpoints.WebAPI\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\Mvm\03. EndPoints\Mvm.Endpoints.WebAPI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\Mvm\03. EndPoints\Mvm.Endpoints.WebAPI\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\Mvm\03. EndPoints\Mvm.Endpoints.WebAPI\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Mvm\03. EndPoints\Mvm.Endpoints.WebAPI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\Mvm\03. EndPoints\Mvm.Endpoints.WebAPI\bin\Debug\net6.0\Mvm.Core.ApplicationServices.dll
+D:\Mvm\03. EndPoints\Mvm.Endpoints.WebAPI\bin\Debug\net6.0\Mvm.Core.Domain.dll
+D:\Mvm\03. EndPoints\Mvm.Endpoints.WebAPI\bin\Debug\net6.0\Mvm.Framework.dll
+D:\Mvm\03. EndPoints\Mvm.Endpoints.WebAPI\bin\Debug\net6.0\Mvm.Infrastructures.Data.SqlServer.dll
+D:\Mvm\03. EndPoints\Mvm.Endpoints.WebAPI\bin\Debug\net6.0\Mvm.Framework.pdb
+D:\Mvm\03. EndPoints\Mvm.Endpoints.WebAPI\bin\Debug\net6.0\Mvm.Core.ApplicationServices.pdb
+D:\Mvm\03. EndPoints\Mvm.Endpoints.WebAPI\bin\Debug\net6.0\Mvm.Core.Domain.pdb
+D:\Mvm\03. EndPoints\Mvm.Endpoints.WebAPI\bin\Debug\net6.0\Mvm.Infrastructures.Data.SqlServer.pdb
+D:\Mvm\03. EndPoints\Mvm.Endpoints.WebAPI\obj\Debug\net6.0\Mvm.Endpoints.WebAPI.csproj.AssemblyReference.cache
+D:\Mvm\03. EndPoints\Mvm.Endpoints.WebAPI\obj\Debug\net6.0\Mvm.Endpoints.WebAPI.GeneratedMSBuildEditorConfig.editorconfig
+D:\Mvm\03. EndPoints\Mvm.Endpoints.WebAPI\obj\Debug\net6.0\Mvm.Endpoints.WebAPI.AssemblyInfoInputs.cache
+D:\Mvm\03. EndPoints\Mvm.Endpoints.WebAPI\obj\Debug\net6.0\Mvm.Endpoints.WebAPI.AssemblyInfo.cs
+D:\Mvm\03. EndPoints\Mvm.Endpoints.WebAPI\obj\Debug\net6.0\Mvm.Endpoints.WebAPI.csproj.CoreCompileInputs.cache
+D:\Mvm\03. EndPoints\Mvm.Endpoints.WebAPI\obj\Debug\net6.0\Mvm.Endpoints.WebAPI.MvcApplicationPartsAssemblyInfo.cs
+D:\Mvm\03. EndPoints\Mvm.Endpoints.WebAPI\obj\Debug\net6.0\Mvm.Endpoints.WebAPI.MvcApplicationPartsAssemblyInfo.cache
+D:\Mvm\03. EndPoints\Mvm.Endpoints.WebAPI\obj\Debug\net6.0\staticwebassets\msbuild.Mvm.Endpoints.WebAPI.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Mvm\03. EndPoints\Mvm.Endpoints.WebAPI\obj\Debug\net6.0\staticwebassets\msbuild.build.Mvm.Endpoints.WebAPI.props
+D:\Mvm\03. EndPoints\Mvm.Endpoints.WebAPI\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Mvm.Endpoints.WebAPI.props
+D:\Mvm\03. EndPoints\Mvm.Endpoints.WebAPI\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Mvm.Endpoints.WebAPI.props
+D:\Mvm\03. EndPoints\Mvm.Endpoints.WebAPI\obj\Debug\net6.0\staticwebassets.pack.json
+D:\Mvm\03. EndPoints\Mvm.Endpoints.WebAPI\obj\Debug\net6.0\staticwebassets.build.json
+D:\Mvm\03. EndPoints\Mvm.Endpoints.WebAPI\obj\Debug\net6.0\staticwebassets.development.json
+D:\Mvm\03. EndPoints\Mvm.Endpoints.WebAPI\obj\Debug\net6.0\scopedcss\bundle\Mvm.Endpoints.WebAPI.styles.css
+D:\Mvm\03. EndPoints\Mvm.Endpoints.WebAPI\obj\Debug\net6.0\Mvm.Endpoints.WebAPI.csproj.CopyComplete
+D:\Mvm\03. EndPoints\Mvm.Endpoints.WebAPI\obj\Debug\net6.0\Mvm.Endpoints.WebAPI.dll
+D:\Mvm\03. EndPoints\Mvm.Endpoints.WebAPI\obj\Debug\net6.0\refint\Mvm.Endpoints.WebAPI.dll
+D:\Mvm\03. EndPoints\Mvm.Endpoints.WebAPI\obj\Debug\net6.0\Mvm.Endpoints.WebAPI.pdb
+D:\Mvm\03. EndPoints\Mvm.Endpoints.WebAPI\obj\Debug\net6.0\Mvm.Endpoints.WebAPI.genruntimeconfig.cache
+D:\Mvm\03. EndPoints\Mvm.Endpoints.WebAPI\obj\Debug\net6.0\ref\Mvm.Endpoints.WebAPI.dll
+D:\Mvm\src\03. EndPoints\Mvm.Endpoints.WebAPI\obj\Debug\net6.0\Mvm.Endpoints.WebAPI.csproj.AssemblyReference.cache
+D:\Mvm\src\03. EndPoints\Mvm.Endpoints.WebAPI\obj\Debug\net6.0\Mvm.Endpoints.WebAPI.GeneratedMSBuildEditorConfig.editorconfig
+D:\Mvm\src\03. EndPoints\Mvm.Endpoints.WebAPI\obj\Debug\net6.0\Mvm.Endpoints.WebAPI.AssemblyInfoInputs.cache
+D:\Mvm\src\03. EndPoints\Mvm.Endpoints.WebAPI\obj\Debug\net6.0\Mvm.Endpoints.WebAPI.AssemblyInfo.cs
+D:\Mvm\src\03. EndPoints\Mvm.Endpoints.WebAPI\obj\Debug\net6.0\Mvm.Endpoints.WebAPI.csproj.CoreCompileInputs.cache
+D:\Mvm\src\03. EndPoints\Mvm.Endpoints.WebAPI\obj\Debug\net6.0\Mvm.Endpoints.WebAPI.MvcApplicationPartsAssemblyInfo.cs
+D:\Mvm\src\03. EndPoints\Mvm.Endpoints.WebAPI\obj\Debug\net6.0\Mvm.Endpoints.WebAPI.MvcApplicationPartsAssemblyInfo.cache
+D:\Mvm\src\03. EndPoints\Mvm.Endpoints.WebAPI\bin\Debug\net6.0\appsettings.Development.json
+D:\Mvm\src\03. EndPoints\Mvm.Endpoints.WebAPI\bin\Debug\net6.0\appsettings.json
+D:\Mvm\src\03. EndPoints\Mvm.Endpoints.WebAPI\bin\Debug\net6.0\Mvm.Endpoints.WebAPI.exe
+D:\Mvm\src\03. EndPoints\Mvm.Endpoints.WebAPI\bin\Debug\net6.0\Mvm.Endpoints.WebAPI.deps.json
+D:\Mvm\src\03. EndPoints\Mvm.Endpoints.WebAPI\bin\Debug\net6.0\Mvm.Endpoints.WebAPI.runtimeconfig.json
+D:\Mvm\src\03. EndPoints\Mvm.Endpoints.WebAPI\bin\Debug\net6.0\Mvm.Endpoints.WebAPI.dll
+D:\Mvm\src\03. EndPoints\Mvm.Endpoints.WebAPI\bin\Debug\net6.0\Mvm.Endpoints.WebAPI.pdb
+D:\Mvm\src\03. EndPoints\Mvm.Endpoints.WebAPI\bin\Debug\net6.0\FluentValidation.dll
+D:\Mvm\src\03. EndPoints\Mvm.Endpoints.WebAPI\bin\Debug\net6.0\FluentValidation.AspNetCore.dll
+D:\Mvm\src\03. EndPoints\Mvm.Endpoints.WebAPI\bin\Debug\net6.0\FluentValidation.DependencyInjectionExtensions.dll
+D:\Mvm\src\03. EndPoints\Mvm.Endpoints.WebAPI\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+D:\Mvm\src\03. EndPoints\Mvm.Endpoints.WebAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\Mvm\src\03. EndPoints\Mvm.Endpoints.WebAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Mvm\src\03. EndPoints\Mvm.Endpoints.WebAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Mvm\src\03. EndPoints\Mvm.Endpoints.WebAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Mvm\src\03. EndPoints\Mvm.Endpoints.WebAPI\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+D:\Mvm\src\03. EndPoints\Mvm.Endpoints.WebAPI\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Mvm\src\03. EndPoints\Mvm.Endpoints.WebAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\Mvm\src\03. EndPoints\Mvm.Endpoints.WebAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\Mvm\src\03. EndPoints\Mvm.Endpoints.WebAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Mvm\src\03. EndPoints\Mvm.Endpoints.WebAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\Mvm\src\03. EndPoints\Mvm.Endpoints.WebAPI\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\Mvm\src\03. EndPoints\Mvm.Endpoints.WebAPI\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\Mvm\src\03. EndPoints\Mvm.Endpoints.WebAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Mvm\src\03. EndPoints\Mvm.Endpoints.WebAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Mvm\src\03. EndPoints\Mvm.Endpoints.WebAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Mvm\src\03. EndPoints\Mvm.Endpoints.WebAPI\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\Mvm\src\03. EndPoints\Mvm.Endpoints.WebAPI\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\Mvm\src\03. EndPoints\Mvm.Endpoints.WebAPI\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Mvm\src\03. EndPoints\Mvm.Endpoints.WebAPI\bin\Debug\net6.0\System.Runtime.Caching.dll
+D:\Mvm\src\03. EndPoints\Mvm.Endpoints.WebAPI\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\Mvm\src\03. EndPoints\Mvm.Endpoints.WebAPI\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\Mvm\src\03. EndPoints\Mvm.Endpoints.WebAPI\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\Mvm\src\03. EndPoints\Mvm.Endpoints.WebAPI\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Mvm\src\03. EndPoints\Mvm.Endpoints.WebAPI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Mvm\src\03. EndPoints\Mvm.Endpoints.WebAPI\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Mvm\src\03. EndPoints\Mvm.Endpoints.WebAPI\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Mvm\src\03. EndPoints\Mvm.Endpoints.WebAPI\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Mvm\src\03. EndPoints\Mvm.Endpoints.WebAPI\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Mvm\src\03. EndPoints\Mvm.Endpoints.WebAPI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\Mvm\src\03. EndPoints\Mvm.Endpoints.WebAPI\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\Mvm\src\03. EndPoints\Mvm.Endpoints.WebAPI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\Mvm\src\03. EndPoints\Mvm.Endpoints.WebAPI\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\Mvm\src\03. EndPoints\Mvm.Endpoints.WebAPI\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Mvm\src\03. EndPoints\Mvm.Endpoints.WebAPI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\Mvm\src\03. EndPoints\Mvm.Endpoints.WebAPI\bin\Debug\net6.0\Mvm.Core.ApplicationServices.dll
+D:\Mvm\src\03. EndPoints\Mvm.Endpoints.WebAPI\bin\Debug\net6.0\Mvm.Core.Domain.dll
+D:\Mvm\src\03. EndPoints\Mvm.Endpoints.WebAPI\bin\Debug\net6.0\Mvm.Framework.dll
+D:\Mvm\src\03. EndPoints\Mvm.Endpoints.WebAPI\bin\Debug\net6.0\Mvm.Infrastructures.Data.SqlServer.dll
+D:\Mvm\src\03. EndPoints\Mvm.Endpoints.WebAPI\bin\Debug\net6.0\Mvm.Framework.pdb
+D:\Mvm\src\03. EndPoints\Mvm.Endpoints.WebAPI\bin\Debug\net6.0\Mvm.Core.ApplicationServices.pdb
+D:\Mvm\src\03. EndPoints\Mvm.Endpoints.WebAPI\bin\Debug\net6.0\Mvm.Core.Domain.pdb
+D:\Mvm\src\03. EndPoints\Mvm.Endpoints.WebAPI\bin\Debug\net6.0\Mvm.Infrastructures.Data.SqlServer.pdb
+D:\Mvm\src\03. EndPoints\Mvm.Endpoints.WebAPI\obj\Debug\net6.0\staticwebassets\msbuild.Mvm.Endpoints.WebAPI.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Mvm\src\03. EndPoints\Mvm.Endpoints.WebAPI\obj\Debug\net6.0\staticwebassets\msbuild.build.Mvm.Endpoints.WebAPI.props
+D:\Mvm\src\03. EndPoints\Mvm.Endpoints.WebAPI\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Mvm.Endpoints.WebAPI.props
+D:\Mvm\src\03. EndPoints\Mvm.Endpoints.WebAPI\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Mvm.Endpoints.WebAPI.props
+D:\Mvm\src\03. EndPoints\Mvm.Endpoints.WebAPI\obj\Debug\net6.0\staticwebassets.pack.json
+D:\Mvm\src\03. EndPoints\Mvm.Endpoints.WebAPI\obj\Debug\net6.0\staticwebassets.build.json
+D:\Mvm\src\03. EndPoints\Mvm.Endpoints.WebAPI\obj\Debug\net6.0\staticwebassets.development.json
+D:\Mvm\src\03. EndPoints\Mvm.Endpoints.WebAPI\obj\Debug\net6.0\scopedcss\bundle\Mvm.Endpoints.WebAPI.styles.css
+D:\Mvm\src\03. EndPoints\Mvm.Endpoints.WebAPI\obj\Debug\net6.0\Mvm.Endpoints.WebAPI.csproj.CopyComplete
+D:\Mvm\src\03. EndPoints\Mvm.Endpoints.WebAPI\obj\Debug\net6.0\Mvm.Endpoints.WebAPI.dll
+D:\Mvm\src\03. EndPoints\Mvm.Endpoints.WebAPI\obj\Debug\net6.0\refint\Mvm.Endpoints.WebAPI.dll
+D:\Mvm\src\03. EndPoints\Mvm.Endpoints.WebAPI\obj\Debug\net6.0\Mvm.Endpoints.WebAPI.pdb
+D:\Mvm\src\03. EndPoints\Mvm.Endpoints.WebAPI\obj\Debug\net6.0\Mvm.Endpoints.WebAPI.genruntimeconfig.cache
+D:\Mvm\src\03. EndPoints\Mvm.Endpoints.WebAPI\obj\Debug\net6.0\ref\Mvm.Endpoints.WebAPI.dll
+H:\Mvm\src\03. EndPoints\Mvm.Endpoints.WebAPI\bin\Debug\net6.0\appsettings.Development.json
+H:\Mvm\src\03. EndPoints\Mvm.Endpoints.WebAPI\bin\Debug\net6.0\appsettings.json
+H:\Mvm\src\03. EndPoints\Mvm.Endpoints.WebAPI\bin\Debug\net6.0\Mvm.Endpoints.WebAPI.exe
+H:\Mvm\src\03. EndPoints\Mvm.Endpoints.WebAPI\bin\Debug\net6.0\Mvm.Endpoints.WebAPI.deps.json
+H:\Mvm\src\03. EndPoints\Mvm.Endpoints.WebAPI\bin\Debug\net6.0\Mvm.Endpoints.WebAPI.runtimeconfig.json
+H:\Mvm\src\03. EndPoints\Mvm.Endpoints.WebAPI\bin\Debug\net6.0\Mvm.Endpoints.WebAPI.dll
+H:\Mvm\src\03. EndPoints\Mvm.Endpoints.WebAPI\bin\Debug\net6.0\Mvm.Endpoints.WebAPI.pdb
+H:\Mvm\src\03. EndPoints\Mvm.Endpoints.WebAPI\bin\Debug\net6.0\FluentValidation.dll
+H:\Mvm\src\03. EndPoints\Mvm.Endpoints.WebAPI\bin\Debug\net6.0\FluentValidation.AspNetCore.dll
+H:\Mvm\src\03. EndPoints\Mvm.Endpoints.WebAPI\bin\Debug\net6.0\FluentValidation.DependencyInjectionExtensions.dll
+H:\Mvm\src\03. EndPoints\Mvm.Endpoints.WebAPI\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+H:\Mvm\src\03. EndPoints\Mvm.Endpoints.WebAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+H:\Mvm\src\03. EndPoints\Mvm.Endpoints.WebAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+H:\Mvm\src\03. EndPoints\Mvm.Endpoints.WebAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+H:\Mvm\src\03. EndPoints\Mvm.Endpoints.WebAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+H:\Mvm\src\03. EndPoints\Mvm.Endpoints.WebAPI\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+H:\Mvm\src\03. EndPoints\Mvm.Endpoints.WebAPI\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+H:\Mvm\src\03. EndPoints\Mvm.Endpoints.WebAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+H:\Mvm\src\03. EndPoints\Mvm.Endpoints.WebAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+H:\Mvm\src\03. EndPoints\Mvm.Endpoints.WebAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+H:\Mvm\src\03. EndPoints\Mvm.Endpoints.WebAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+H:\Mvm\src\03. EndPoints\Mvm.Endpoints.WebAPI\bin\Debug\net6.0\Microsoft.OpenApi.dll
+H:\Mvm\src\03. EndPoints\Mvm.Endpoints.WebAPI\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+H:\Mvm\src\03. EndPoints\Mvm.Endpoints.WebAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+H:\Mvm\src\03. EndPoints\Mvm.Endpoints.WebAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+H:\Mvm\src\03. EndPoints\Mvm.Endpoints.WebAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+H:\Mvm\src\03. EndPoints\Mvm.Endpoints.WebAPI\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+H:\Mvm\src\03. EndPoints\Mvm.Endpoints.WebAPI\bin\Debug\net6.0\System.Drawing.Common.dll
+H:\Mvm\src\03. EndPoints\Mvm.Endpoints.WebAPI\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+H:\Mvm\src\03. EndPoints\Mvm.Endpoints.WebAPI\bin\Debug\net6.0\System.Runtime.Caching.dll
+H:\Mvm\src\03. EndPoints\Mvm.Endpoints.WebAPI\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+H:\Mvm\src\03. EndPoints\Mvm.Endpoints.WebAPI\bin\Debug\net6.0\System.Security.Permissions.dll
+H:\Mvm\src\03. EndPoints\Mvm.Endpoints.WebAPI\bin\Debug\net6.0\System.Windows.Extensions.dll
+H:\Mvm\src\03. EndPoints\Mvm.Endpoints.WebAPI\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+H:\Mvm\src\03. EndPoints\Mvm.Endpoints.WebAPI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+H:\Mvm\src\03. EndPoints\Mvm.Endpoints.WebAPI\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+H:\Mvm\src\03. EndPoints\Mvm.Endpoints.WebAPI\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+H:\Mvm\src\03. EndPoints\Mvm.Endpoints.WebAPI\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+H:\Mvm\src\03. EndPoints\Mvm.Endpoints.WebAPI\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+H:\Mvm\src\03. EndPoints\Mvm.Endpoints.WebAPI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+H:\Mvm\src\03. EndPoints\Mvm.Endpoints.WebAPI\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+H:\Mvm\src\03. EndPoints\Mvm.Endpoints.WebAPI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+H:\Mvm\src\03. EndPoints\Mvm.Endpoints.WebAPI\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+H:\Mvm\src\03. EndPoints\Mvm.Endpoints.WebAPI\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+H:\Mvm\src\03. EndPoints\Mvm.Endpoints.WebAPI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+H:\Mvm\src\03. EndPoints\Mvm.Endpoints.WebAPI\bin\Debug\net6.0\Mvm.Core.ApplicationServices.dll
+H:\Mvm\src\03. EndPoints\Mvm.Endpoints.WebAPI\bin\Debug\net6.0\Mvm.Core.Domain.dll
+H:\Mvm\src\03. EndPoints\Mvm.Endpoints.WebAPI\bin\Debug\net6.0\Mvm.Framework.dll
+H:\Mvm\src\03. EndPoints\Mvm.Endpoints.WebAPI\bin\Debug\net6.0\Mvm.Infrastructures.Data.SqlServer.dll
+H:\Mvm\src\03. EndPoints\Mvm.Endpoints.WebAPI\bin\Debug\net6.0\Mvm.Framework.pdb
+H:\Mvm\src\03. EndPoints\Mvm.Endpoints.WebAPI\bin\Debug\net6.0\Mvm.Core.ApplicationServices.pdb
+H:\Mvm\src\03. EndPoints\Mvm.Endpoints.WebAPI\bin\Debug\net6.0\Mvm.Core.Domain.pdb
+H:\Mvm\src\03. EndPoints\Mvm.Endpoints.WebAPI\bin\Debug\net6.0\Mvm.Infrastructures.Data.SqlServer.pdb
+H:\Mvm\src\03. EndPoints\Mvm.Endpoints.WebAPI\obj\Debug\net6.0\Mvm.Endpoints.WebAPI.csproj.AssemblyReference.cache
+H:\Mvm\src\03. EndPoints\Mvm.Endpoints.WebAPI\obj\Debug\net6.0\Mvm.Endpoints.WebAPI.GeneratedMSBuildEditorConfig.editorconfig
+H:\Mvm\src\03. EndPoints\Mvm.Endpoints.WebAPI\obj\Debug\net6.0\Mvm.Endpoints.WebAPI.AssemblyInfoInputs.cache
+H:\Mvm\src\03. EndPoints\Mvm.Endpoints.WebAPI\obj\Debug\net6.0\Mvm.Endpoints.WebAPI.AssemblyInfo.cs
+H:\Mvm\src\03. EndPoints\Mvm.Endpoints.WebAPI\obj\Debug\net6.0\Mvm.Endpoints.WebAPI.csproj.CoreCompileInputs.cache
+H:\Mvm\src\03. EndPoints\Mvm.Endpoints.WebAPI\obj\Debug\net6.0\Mvm.Endpoints.WebAPI.MvcApplicationPartsAssemblyInfo.cs
+H:\Mvm\src\03. EndPoints\Mvm.Endpoints.WebAPI\obj\Debug\net6.0\Mvm.Endpoints.WebAPI.MvcApplicationPartsAssemblyInfo.cache
+H:\Mvm\src\03. EndPoints\Mvm.Endpoints.WebAPI\obj\Debug\net6.0\staticwebassets\msbuild.Mvm.Endpoints.WebAPI.Microsoft.AspNetCore.StaticWebAssets.props
+H:\Mvm\src\03. EndPoints\Mvm.Endpoints.WebAPI\obj\Debug\net6.0\staticwebassets\msbuild.build.Mvm.Endpoints.WebAPI.props
+H:\Mvm\src\03. EndPoints\Mvm.Endpoints.WebAPI\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Mvm.Endpoints.WebAPI.props
+H:\Mvm\src\03. EndPoints\Mvm.Endpoints.WebAPI\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Mvm.Endpoints.WebAPI.props
+H:\Mvm\src\03. EndPoints\Mvm.Endpoints.WebAPI\obj\Debug\net6.0\staticwebassets.pack.json
+H:\Mvm\src\03. EndPoints\Mvm.Endpoints.WebAPI\obj\Debug\net6.0\staticwebassets.build.json
+H:\Mvm\src\03. EndPoints\Mvm.Endpoints.WebAPI\obj\Debug\net6.0\staticwebassets.development.json
+H:\Mvm\src\03. EndPoints\Mvm.Endpoints.WebAPI\obj\Debug\net6.0\scopedcss\bundle\Mvm.Endpoints.WebAPI.styles.css
+H:\Mvm\src\03. EndPoints\Mvm.Endpoints.WebAPI\obj\Debug\net6.0\Mvm.Endpoints.WebAPI.csproj.CopyComplete
+H:\Mvm\src\03. EndPoints\Mvm.Endpoints.WebAPI\obj\Debug\net6.0\Mvm.Endpoints.WebAPI.dll
+H:\Mvm\src\03. EndPoints\Mvm.Endpoints.WebAPI\obj\Debug\net6.0\refint\Mvm.Endpoints.WebAPI.dll
+H:\Mvm\src\03. EndPoints\Mvm.Endpoints.WebAPI\obj\Debug\net6.0\Mvm.Endpoints.WebAPI.pdb
+H:\Mvm\src\03. EndPoints\Mvm.Endpoints.WebAPI\obj\Debug\net6.0\Mvm.Endpoints.WebAPI.genruntimeconfig.cache
+H:\Mvm\src\03. EndPoints\Mvm.Endpoints.WebAPI\obj\Debug\net6.0\ref\Mvm.Endpoints.WebAPI.dll
+H:\Mvm\src\03. EndPoints\Mvm.Endpoints.WebAPI\bin\Debug\net6.0\Humanizer.dll
+H:\Mvm\src\03. EndPoints\Mvm.Endpoints.WebAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll

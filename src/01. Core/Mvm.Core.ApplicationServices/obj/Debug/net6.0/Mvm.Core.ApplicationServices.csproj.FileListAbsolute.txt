@@ -1,0 +1,68 @@
+D:\New folder (2)\Mvm\01. Core\Mvm.Core.ApplicationServices\bin\Debug\net6.0\Mvm.Core.ApplicationServices.deps.json
+D:\New folder (2)\Mvm\01. Core\Mvm.Core.ApplicationServices\bin\Debug\net6.0\Mvm.Core.ApplicationServices.dll
+D:\New folder (2)\Mvm\01. Core\Mvm.Core.ApplicationServices\bin\Debug\net6.0\Mvm.Core.ApplicationServices.pdb
+D:\New folder (2)\Mvm\01. Core\Mvm.Core.ApplicationServices\obj\Debug\net6.0\Mvm.Core.ApplicationServices.csproj.AssemblyReference.cache
+D:\New folder (2)\Mvm\01. Core\Mvm.Core.ApplicationServices\obj\Debug\net6.0\Mvm.Core.ApplicationServices.GeneratedMSBuildEditorConfig.editorconfig
+D:\New folder (2)\Mvm\01. Core\Mvm.Core.ApplicationServices\obj\Debug\net6.0\Mvm.Core.ApplicationServices.AssemblyInfoInputs.cache
+D:\New folder (2)\Mvm\01. Core\Mvm.Core.ApplicationServices\obj\Debug\net6.0\Mvm.Core.ApplicationServices.AssemblyInfo.cs
+D:\New folder (2)\Mvm\01. Core\Mvm.Core.ApplicationServices\obj\Debug\net6.0\Mvm.Core.ApplicationServices.csproj.CoreCompileInputs.cache
+D:\New folder (2)\Mvm\01. Core\Mvm.Core.ApplicationServices\obj\Debug\net6.0\Mvm.Core.ApplicationServices.dll
+D:\New folder (2)\Mvm\01. Core\Mvm.Core.ApplicationServices\obj\Debug\net6.0\refint\Mvm.Core.ApplicationServices.dll
+D:\New folder (2)\Mvm\01. Core\Mvm.Core.ApplicationServices\obj\Debug\net6.0\Mvm.Core.ApplicationServices.pdb
+D:\New folder (2)\Mvm\01. Core\Mvm.Core.ApplicationServices\obj\Debug\net6.0\ref\Mvm.Core.ApplicationServices.dll
+D:\New folder (2)\Mvm\01. Core\Mvm.Core.ApplicationServices\bin\Debug\net6.0\Mvm.Core.Domain.dll
+D:\New folder (2)\Mvm\01. Core\Mvm.Core.ApplicationServices\bin\Debug\net6.0\Mvm.Framework.dll
+D:\New folder (2)\Mvm\01. Core\Mvm.Core.ApplicationServices\bin\Debug\net6.0\Mvm.Framework.pdb
+D:\New folder (2)\Mvm\01. Core\Mvm.Core.ApplicationServices\bin\Debug\net6.0\Mvm.Core.Domain.pdb
+D:\New folder (2)\Mvm\01. Core\Mvm.Core.ApplicationServices\obj\Debug\net6.0\Mvm.Core.ApplicationServices.csproj.CopyComplete
+D:\Mvm\01. Core\Mvm.Core.ApplicationServices\bin\Debug\net6.0\Mvm.Core.ApplicationServices.deps.json
+D:\Mvm\01. Core\Mvm.Core.ApplicationServices\bin\Debug\net6.0\Mvm.Core.ApplicationServices.dll
+D:\Mvm\01. Core\Mvm.Core.ApplicationServices\bin\Debug\net6.0\Mvm.Core.ApplicationServices.pdb
+D:\Mvm\01. Core\Mvm.Core.ApplicationServices\bin\Debug\net6.0\Mvm.Core.Domain.dll
+D:\Mvm\01. Core\Mvm.Core.ApplicationServices\bin\Debug\net6.0\Mvm.Framework.dll
+D:\Mvm\01. Core\Mvm.Core.ApplicationServices\bin\Debug\net6.0\Mvm.Framework.pdb
+D:\Mvm\01. Core\Mvm.Core.ApplicationServices\bin\Debug\net6.0\Mvm.Core.Domain.pdb
+D:\Mvm\01. Core\Mvm.Core.ApplicationServices\obj\Debug\net6.0\Mvm.Core.ApplicationServices.csproj.AssemblyReference.cache
+D:\Mvm\01. Core\Mvm.Core.ApplicationServices\obj\Debug\net6.0\Mvm.Core.ApplicationServices.GeneratedMSBuildEditorConfig.editorconfig
+D:\Mvm\01. Core\Mvm.Core.ApplicationServices\obj\Debug\net6.0\Mvm.Core.ApplicationServices.AssemblyInfoInputs.cache
+D:\Mvm\01. Core\Mvm.Core.ApplicationServices\obj\Debug\net6.0\Mvm.Core.ApplicationServices.AssemblyInfo.cs
+D:\Mvm\01. Core\Mvm.Core.ApplicationServices\obj\Debug\net6.0\Mvm.Core.ApplicationServices.csproj.CoreCompileInputs.cache
+D:\Mvm\01. Core\Mvm.Core.ApplicationServices\obj\Debug\net6.0\Mvm.Core.ApplicationServices.csproj.CopyComplete
+D:\Mvm\01. Core\Mvm.Core.ApplicationServices\obj\Debug\net6.0\Mvm.Core.ApplicationServices.dll
+D:\Mvm\01. Core\Mvm.Core.ApplicationServices\obj\Debug\net6.0\refint\Mvm.Core.ApplicationServices.dll
+D:\Mvm\01. Core\Mvm.Core.ApplicationServices\obj\Debug\net6.0\Mvm.Core.ApplicationServices.pdb
+D:\Mvm\01. Core\Mvm.Core.ApplicationServices\obj\Debug\net6.0\ref\Mvm.Core.ApplicationServices.dll
+D:\Mvm\src\01. Core\Mvm.Core.ApplicationServices\bin\Debug\net6.0\Mvm.Core.ApplicationServices.deps.json
+D:\Mvm\src\01. Core\Mvm.Core.ApplicationServices\bin\Debug\net6.0\Mvm.Core.ApplicationServices.dll
+D:\Mvm\src\01. Core\Mvm.Core.ApplicationServices\bin\Debug\net6.0\Mvm.Core.ApplicationServices.pdb
+D:\Mvm\src\01. Core\Mvm.Core.ApplicationServices\bin\Debug\net6.0\Mvm.Core.Domain.dll
+D:\Mvm\src\01. Core\Mvm.Core.ApplicationServices\bin\Debug\net6.0\Mvm.Framework.dll
+D:\Mvm\src\01. Core\Mvm.Core.ApplicationServices\bin\Debug\net6.0\Mvm.Framework.pdb
+D:\Mvm\src\01. Core\Mvm.Core.ApplicationServices\bin\Debug\net6.0\Mvm.Core.Domain.pdb
+D:\Mvm\src\01. Core\Mvm.Core.ApplicationServices\obj\Debug\net6.0\Mvm.Core.ApplicationServices.csproj.AssemblyReference.cache
+D:\Mvm\src\01. Core\Mvm.Core.ApplicationServices\obj\Debug\net6.0\Mvm.Core.ApplicationServices.GeneratedMSBuildEditorConfig.editorconfig
+D:\Mvm\src\01. Core\Mvm.Core.ApplicationServices\obj\Debug\net6.0\Mvm.Core.ApplicationServices.AssemblyInfoInputs.cache
+D:\Mvm\src\01. Core\Mvm.Core.ApplicationServices\obj\Debug\net6.0\Mvm.Core.ApplicationServices.AssemblyInfo.cs
+D:\Mvm\src\01. Core\Mvm.Core.ApplicationServices\obj\Debug\net6.0\Mvm.Core.ApplicationServices.csproj.CoreCompileInputs.cache
+D:\Mvm\src\01. Core\Mvm.Core.ApplicationServices\obj\Debug\net6.0\Mvm.Core.ApplicationServices.csproj.CopyComplete
+D:\Mvm\src\01. Core\Mvm.Core.ApplicationServices\obj\Debug\net6.0\Mvm.Core.ApplicationServices.dll
+D:\Mvm\src\01. Core\Mvm.Core.ApplicationServices\obj\Debug\net6.0\refint\Mvm.Core.ApplicationServices.dll
+D:\Mvm\src\01. Core\Mvm.Core.ApplicationServices\obj\Debug\net6.0\Mvm.Core.ApplicationServices.pdb
+D:\Mvm\src\01. Core\Mvm.Core.ApplicationServices\obj\Debug\net6.0\ref\Mvm.Core.ApplicationServices.dll
+H:\Mvm\src\01. Core\Mvm.Core.ApplicationServices\bin\Debug\net6.0\Mvm.Core.ApplicationServices.deps.json
+H:\Mvm\src\01. Core\Mvm.Core.ApplicationServices\bin\Debug\net6.0\Mvm.Core.ApplicationServices.dll
+H:\Mvm\src\01. Core\Mvm.Core.ApplicationServices\bin\Debug\net6.0\Mvm.Core.ApplicationServices.pdb
+H:\Mvm\src\01. Core\Mvm.Core.ApplicationServices\bin\Debug\net6.0\Mvm.Core.Domain.dll
+H:\Mvm\src\01. Core\Mvm.Core.ApplicationServices\bin\Debug\net6.0\Mvm.Framework.dll
+H:\Mvm\src\01. Core\Mvm.Core.ApplicationServices\bin\Debug\net6.0\Mvm.Framework.pdb
+H:\Mvm\src\01. Core\Mvm.Core.ApplicationServices\bin\Debug\net6.0\Mvm.Core.Domain.pdb
+H:\Mvm\src\01. Core\Mvm.Core.ApplicationServices\obj\Debug\net6.0\Mvm.Core.ApplicationServices.csproj.AssemblyReference.cache
+H:\Mvm\src\01. Core\Mvm.Core.ApplicationServices\obj\Debug\net6.0\Mvm.Core.ApplicationServices.GeneratedMSBuildEditorConfig.editorconfig
+H:\Mvm\src\01. Core\Mvm.Core.ApplicationServices\obj\Debug\net6.0\Mvm.Core.ApplicationServices.AssemblyInfoInputs.cache
+H:\Mvm\src\01. Core\Mvm.Core.ApplicationServices\obj\Debug\net6.0\Mvm.Core.ApplicationServices.AssemblyInfo.cs
+H:\Mvm\src\01. Core\Mvm.Core.ApplicationServices\obj\Debug\net6.0\Mvm.Core.ApplicationServices.csproj.CoreCompileInputs.cache
+H:\Mvm\src\01. Core\Mvm.Core.ApplicationServices\obj\Debug\net6.0\Mvm.Core.ApplicationServices.csproj.CopyComplete
+H:\Mvm\src\01. Core\Mvm.Core.ApplicationServices\obj\Debug\net6.0\Mvm.Core.ApplicationServices.dll
+H:\Mvm\src\01. Core\Mvm.Core.ApplicationServices\obj\Debug\net6.0\refint\Mvm.Core.ApplicationServices.dll
+H:\Mvm\src\01. Core\Mvm.Core.ApplicationServices\obj\Debug\net6.0\Mvm.Core.ApplicationServices.pdb
+H:\Mvm\src\01. Core\Mvm.Core.ApplicationServices\obj\Debug\net6.0\ref\Mvm.Core.ApplicationServices.dll

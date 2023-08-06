@@ -1,0 +1,60 @@
+D:\New folder (2)\Mvm\01. Core\Mvm.Core.Domain\obj\Debug\net6.0\Mvm.Core.Domain.csproj.AssemblyReference.cache
+D:\New folder (2)\Mvm\01. Core\Mvm.Core.Domain\obj\Debug\net6.0\Mvm.Core.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\New folder (2)\Mvm\01. Core\Mvm.Core.Domain\obj\Debug\net6.0\Mvm.Core.Domain.AssemblyInfoInputs.cache
+D:\New folder (2)\Mvm\01. Core\Mvm.Core.Domain\obj\Debug\net6.0\Mvm.Core.Domain.AssemblyInfo.cs
+D:\New folder (2)\Mvm\01. Core\Mvm.Core.Domain\obj\Debug\net6.0\Mvm.Core.Domain.csproj.CoreCompileInputs.cache
+D:\New folder (2)\Mvm\01. Core\Mvm.Core.Domain\bin\Debug\net6.0\Mvm.Core.Domain.deps.json
+D:\New folder (2)\Mvm\01. Core\Mvm.Core.Domain\bin\Debug\net6.0\Mvm.Core.Domain.dll
+D:\New folder (2)\Mvm\01. Core\Mvm.Core.Domain\bin\Debug\net6.0\Mvm.Core.Domain.pdb
+D:\New folder (2)\Mvm\01. Core\Mvm.Core.Domain\bin\Debug\net6.0\Mvm.Framework.dll
+D:\New folder (2)\Mvm\01. Core\Mvm.Core.Domain\bin\Debug\net6.0\Mvm.Framework.pdb
+D:\New folder (2)\Mvm\01. Core\Mvm.Core.Domain\obj\Debug\net6.0\Mvm.Core.Domain.csproj.CopyComplete
+D:\New folder (2)\Mvm\01. Core\Mvm.Core.Domain\obj\Debug\net6.0\Mvm.Core.Domain.dll
+D:\New folder (2)\Mvm\01. Core\Mvm.Core.Domain\obj\Debug\net6.0\refint\Mvm.Core.Domain.dll
+D:\New folder (2)\Mvm\01. Core\Mvm.Core.Domain\obj\Debug\net6.0\Mvm.Core.Domain.pdb
+D:\New folder (2)\Mvm\01. Core\Mvm.Core.Domain\obj\Debug\net6.0\ref\Mvm.Core.Domain.dll
+D:\Mvm\01. Core\Mvm.Core.Domain\bin\Debug\net6.0\Mvm.Core.Domain.deps.json
+D:\Mvm\01. Core\Mvm.Core.Domain\bin\Debug\net6.0\Mvm.Core.Domain.dll
+D:\Mvm\01. Core\Mvm.Core.Domain\bin\Debug\net6.0\Mvm.Core.Domain.pdb
+D:\Mvm\01. Core\Mvm.Core.Domain\bin\Debug\net6.0\Mvm.Framework.dll
+D:\Mvm\01. Core\Mvm.Core.Domain\bin\Debug\net6.0\Mvm.Framework.pdb
+D:\Mvm\01. Core\Mvm.Core.Domain\obj\Debug\net6.0\Mvm.Core.Domain.csproj.AssemblyReference.cache
+D:\Mvm\01. Core\Mvm.Core.Domain\obj\Debug\net6.0\Mvm.Core.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\Mvm\01. Core\Mvm.Core.Domain\obj\Debug\net6.0\Mvm.Core.Domain.AssemblyInfoInputs.cache
+D:\Mvm\01. Core\Mvm.Core.Domain\obj\Debug\net6.0\Mvm.Core.Domain.AssemblyInfo.cs
+D:\Mvm\01. Core\Mvm.Core.Domain\obj\Debug\net6.0\Mvm.Core.Domain.csproj.CoreCompileInputs.cache
+D:\Mvm\01. Core\Mvm.Core.Domain\obj\Debug\net6.0\Mvm.Core.Domain.csproj.CopyComplete
+D:\Mvm\01. Core\Mvm.Core.Domain\obj\Debug\net6.0\Mvm.Core.Domain.dll
+D:\Mvm\01. Core\Mvm.Core.Domain\obj\Debug\net6.0\refint\Mvm.Core.Domain.dll
+D:\Mvm\01. Core\Mvm.Core.Domain\obj\Debug\net6.0\Mvm.Core.Domain.pdb
+D:\Mvm\01. Core\Mvm.Core.Domain\obj\Debug\net6.0\ref\Mvm.Core.Domain.dll
+D:\Mvm\src\01. Core\Mvm.Core.Domain\bin\Debug\net6.0\Mvm.Core.Domain.deps.json
+D:\Mvm\src\01. Core\Mvm.Core.Domain\bin\Debug\net6.0\Mvm.Core.Domain.dll
+D:\Mvm\src\01. Core\Mvm.Core.Domain\bin\Debug\net6.0\Mvm.Core.Domain.pdb
+D:\Mvm\src\01. Core\Mvm.Core.Domain\bin\Debug\net6.0\Mvm.Framework.dll
+D:\Mvm\src\01. Core\Mvm.Core.Domain\bin\Debug\net6.0\Mvm.Framework.pdb
+D:\Mvm\src\01. Core\Mvm.Core.Domain\obj\Debug\net6.0\Mvm.Core.Domain.csproj.AssemblyReference.cache
+D:\Mvm\src\01. Core\Mvm.Core.Domain\obj\Debug\net6.0\Mvm.Core.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\Mvm\src\01. Core\Mvm.Core.Domain\obj\Debug\net6.0\Mvm.Core.Domain.AssemblyInfoInputs.cache
+D:\Mvm\src\01. Core\Mvm.Core.Domain\obj\Debug\net6.0\Mvm.Core.Domain.AssemblyInfo.cs
+D:\Mvm\src\01. Core\Mvm.Core.Domain\obj\Debug\net6.0\Mvm.Core.Domain.csproj.CoreCompileInputs.cache
+D:\Mvm\src\01. Core\Mvm.Core.Domain\obj\Debug\net6.0\Mvm.Core.Domain.csproj.CopyComplete
+D:\Mvm\src\01. Core\Mvm.Core.Domain\obj\Debug\net6.0\Mvm.Core.Domain.dll
+D:\Mvm\src\01. Core\Mvm.Core.Domain\obj\Debug\net6.0\refint\Mvm.Core.Domain.dll
+D:\Mvm\src\01. Core\Mvm.Core.Domain\obj\Debug\net6.0\Mvm.Core.Domain.pdb
+D:\Mvm\src\01. Core\Mvm.Core.Domain\obj\Debug\net6.0\ref\Mvm.Core.Domain.dll
+H:\Mvm\src\01. Core\Mvm.Core.Domain\bin\Debug\net6.0\Mvm.Core.Domain.deps.json
+H:\Mvm\src\01. Core\Mvm.Core.Domain\bin\Debug\net6.0\Mvm.Core.Domain.dll
+H:\Mvm\src\01. Core\Mvm.Core.Domain\bin\Debug\net6.0\Mvm.Core.Domain.pdb
+H:\Mvm\src\01. Core\Mvm.Core.Domain\bin\Debug\net6.0\Mvm.Framework.dll
+H:\Mvm\src\01. Core\Mvm.Core.Domain\bin\Debug\net6.0\Mvm.Framework.pdb
+H:\Mvm\src\01. Core\Mvm.Core.Domain\obj\Debug\net6.0\Mvm.Core.Domain.csproj.AssemblyReference.cache
+H:\Mvm\src\01. Core\Mvm.Core.Domain\obj\Debug\net6.0\Mvm.Core.Domain.GeneratedMSBuildEditorConfig.editorconfig
+H:\Mvm\src\01. Core\Mvm.Core.Domain\obj\Debug\net6.0\Mvm.Core.Domain.AssemblyInfoInputs.cache
+H:\Mvm\src\01. Core\Mvm.Core.Domain\obj\Debug\net6.0\Mvm.Core.Domain.AssemblyInfo.cs
+H:\Mvm\src\01. Core\Mvm.Core.Domain\obj\Debug\net6.0\Mvm.Core.Domain.csproj.CoreCompileInputs.cache
+H:\Mvm\src\01. Core\Mvm.Core.Domain\obj\Debug\net6.0\Mvm.Core.Domain.csproj.CopyComplete
+H:\Mvm\src\01. Core\Mvm.Core.Domain\obj\Debug\net6.0\Mvm.Core.Domain.dll
+H:\Mvm\src\01. Core\Mvm.Core.Domain\obj\Debug\net6.0\refint\Mvm.Core.Domain.dll
+H:\Mvm\src\01. Core\Mvm.Core.Domain\obj\Debug\net6.0\Mvm.Core.Domain.pdb
+H:\Mvm\src\01. Core\Mvm.Core.Domain\obj\Debug\net6.0\ref\Mvm.Core.Domain.dll

@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "qcQwHvbi4cVt2HSNhMO6pUfmzCAAP8+92GjliBYqo7w=",
+  "Source": "Mvm.Endpoints.WebAPI",
+  "BasePath": "_content/Mvm.Endpoints.WebAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\Mvm.Endpoints.WebAPI.props" />
+</Project>

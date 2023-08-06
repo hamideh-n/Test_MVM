@@ -1,0 +1,76 @@
+D:\New folder (2)\Mvm\02. Infrastructures\Mvm.Infrastructures.Data.SqlServer\obj\Debug\net6.0\Mvm.Infrastructures.Data.SqlServer.csproj.AssemblyReference.cache
+D:\New folder (2)\Mvm\02. Infrastructures\Mvm.Infrastructures.Data.SqlServer\obj\Debug\net6.0\Mvm.Infrastructures.Data.SqlServer.GeneratedMSBuildEditorConfig.editorconfig
+D:\New folder (2)\Mvm\02. Infrastructures\Mvm.Infrastructures.Data.SqlServer\obj\Debug\net6.0\Mvm.Infrastructures.Data.SqlServer.AssemblyInfoInputs.cache
+D:\New folder (2)\Mvm\02. Infrastructures\Mvm.Infrastructures.Data.SqlServer\obj\Debug\net6.0\Mvm.Infrastructures.Data.SqlServer.AssemblyInfo.cs
+D:\New folder (2)\Mvm\02. Infrastructures\Mvm.Infrastructures.Data.SqlServer\obj\Debug\net6.0\Mvm.Infrastructures.Data.SqlServer.csproj.CoreCompileInputs.cache
+D:\New folder (2)\Mvm\02. Infrastructures\Mvm.Infrastructures.Data.SqlServer\bin\Debug\net6.0\Mvm.Infrastructures.Data.SqlServer.deps.json
+D:\New folder (2)\Mvm\02. Infrastructures\Mvm.Infrastructures.Data.SqlServer\bin\Debug\net6.0\Mvm.Infrastructures.Data.SqlServer.runtimeconfig.json
+D:\New folder (2)\Mvm\02. Infrastructures\Mvm.Infrastructures.Data.SqlServer\bin\Debug\net6.0\Mvm.Infrastructures.Data.SqlServer.dll
+D:\New folder (2)\Mvm\02. Infrastructures\Mvm.Infrastructures.Data.SqlServer\bin\Debug\net6.0\Mvm.Infrastructures.Data.SqlServer.pdb
+D:\New folder (2)\Mvm\02. Infrastructures\Mvm.Infrastructures.Data.SqlServer\bin\Debug\net6.0\Mvm.Core.Domain.dll
+D:\New folder (2)\Mvm\02. Infrastructures\Mvm.Infrastructures.Data.SqlServer\bin\Debug\net6.0\Mvm.Framework.dll
+D:\New folder (2)\Mvm\02. Infrastructures\Mvm.Infrastructures.Data.SqlServer\bin\Debug\net6.0\Mvm.Core.Domain.pdb
+D:\New folder (2)\Mvm\02. Infrastructures\Mvm.Infrastructures.Data.SqlServer\bin\Debug\net6.0\Mvm.Framework.pdb
+D:\New folder (2)\Mvm\02. Infrastructures\Mvm.Infrastructures.Data.SqlServer\obj\Debug\net6.0\Mvm.Infrastructures.Data.SqlServer.csproj.CopyComplete
+D:\New folder (2)\Mvm\02. Infrastructures\Mvm.Infrastructures.Data.SqlServer\obj\Debug\net6.0\Mvm.Infrastructures.Data.SqlServer.dll
+D:\New folder (2)\Mvm\02. Infrastructures\Mvm.Infrastructures.Data.SqlServer\obj\Debug\net6.0\refint\Mvm.Infrastructures.Data.SqlServer.dll
+D:\New folder (2)\Mvm\02. Infrastructures\Mvm.Infrastructures.Data.SqlServer\obj\Debug\net6.0\Mvm.Infrastructures.Data.SqlServer.pdb
+D:\New folder (2)\Mvm\02. Infrastructures\Mvm.Infrastructures.Data.SqlServer\obj\Debug\net6.0\Mvm.Infrastructures.Data.SqlServer.genruntimeconfig.cache
+D:\New folder (2)\Mvm\02. Infrastructures\Mvm.Infrastructures.Data.SqlServer\obj\Debug\net6.0\ref\Mvm.Infrastructures.Data.SqlServer.dll
+D:\Mvm\02. Infrastructures\Mvm.Infrastructures.Data.SqlServer\bin\Debug\net6.0\Mvm.Infrastructures.Data.SqlServer.deps.json
+D:\Mvm\02. Infrastructures\Mvm.Infrastructures.Data.SqlServer\bin\Debug\net6.0\Mvm.Infrastructures.Data.SqlServer.runtimeconfig.json
+D:\Mvm\02. Infrastructures\Mvm.Infrastructures.Data.SqlServer\bin\Debug\net6.0\Mvm.Infrastructures.Data.SqlServer.dll
+D:\Mvm\02. Infrastructures\Mvm.Infrastructures.Data.SqlServer\bin\Debug\net6.0\Mvm.Infrastructures.Data.SqlServer.pdb
+D:\Mvm\02. Infrastructures\Mvm.Infrastructures.Data.SqlServer\bin\Debug\net6.0\Mvm.Core.Domain.dll
+D:\Mvm\02. Infrastructures\Mvm.Infrastructures.Data.SqlServer\bin\Debug\net6.0\Mvm.Framework.dll
+D:\Mvm\02. Infrastructures\Mvm.Infrastructures.Data.SqlServer\bin\Debug\net6.0\Mvm.Core.Domain.pdb
+D:\Mvm\02. Infrastructures\Mvm.Infrastructures.Data.SqlServer\bin\Debug\net6.0\Mvm.Framework.pdb
+D:\Mvm\02. Infrastructures\Mvm.Infrastructures.Data.SqlServer\obj\Debug\net6.0\Mvm.Infrastructures.Data.SqlServer.csproj.AssemblyReference.cache
+D:\Mvm\02. Infrastructures\Mvm.Infrastructures.Data.SqlServer\obj\Debug\net6.0\Mvm.Infrastructures.Data.SqlServer.GeneratedMSBuildEditorConfig.editorconfig
+D:\Mvm\02. Infrastructures\Mvm.Infrastructures.Data.SqlServer\obj\Debug\net6.0\Mvm.Infrastructures.Data.SqlServer.AssemblyInfoInputs.cache
+D:\Mvm\02. Infrastructures\Mvm.Infrastructures.Data.SqlServer\obj\Debug\net6.0\Mvm.Infrastructures.Data.SqlServer.AssemblyInfo.cs
+D:\Mvm\02. Infrastructures\Mvm.Infrastructures.Data.SqlServer\obj\Debug\net6.0\Mvm.Infrastructures.Data.SqlServer.csproj.CoreCompileInputs.cache
+D:\Mvm\02. Infrastructures\Mvm.Infrastructures.Data.SqlServer\obj\Debug\net6.0\Mvm.Infrastructures.Data.SqlServer.csproj.CopyComplete
+D:\Mvm\02. Infrastructures\Mvm.Infrastructures.Data.SqlServer\obj\Debug\net6.0\Mvm.Infrastructures.Data.SqlServer.dll
+D:\Mvm\02. Infrastructures\Mvm.Infrastructures.Data.SqlServer\obj\Debug\net6.0\refint\Mvm.Infrastructures.Data.SqlServer.dll
+D:\Mvm\02. Infrastructures\Mvm.Infrastructures.Data.SqlServer\obj\Debug\net6.0\Mvm.Infrastructures.Data.SqlServer.pdb
+D:\Mvm\02. Infrastructures\Mvm.Infrastructures.Data.SqlServer\obj\Debug\net6.0\Mvm.Infrastructures.Data.SqlServer.genruntimeconfig.cache
+D:\Mvm\02. Infrastructures\Mvm.Infrastructures.Data.SqlServer\obj\Debug\net6.0\ref\Mvm.Infrastructures.Data.SqlServer.dll
+D:\Mvm\src\02. Infrastructures\Mvm.Infrastructures.Data.SqlServer\bin\Debug\net6.0\Mvm.Infrastructures.Data.SqlServer.deps.json
+D:\Mvm\src\02. Infrastructures\Mvm.Infrastructures.Data.SqlServer\bin\Debug\net6.0\Mvm.Infrastructures.Data.SqlServer.runtimeconfig.json
+D:\Mvm\src\02. Infrastructures\Mvm.Infrastructures.Data.SqlServer\bin\Debug\net6.0\Mvm.Infrastructures.Data.SqlServer.dll
+D:\Mvm\src\02. Infrastructures\Mvm.Infrastructures.Data.SqlServer\bin\Debug\net6.0\Mvm.Infrastructures.Data.SqlServer.pdb
+D:\Mvm\src\02. Infrastructures\Mvm.Infrastructures.Data.SqlServer\bin\Debug\net6.0\Mvm.Core.Domain.dll
+D:\Mvm\src\02. Infrastructures\Mvm.Infrastructures.Data.SqlServer\bin\Debug\net6.0\Mvm.Framework.dll
+D:\Mvm\src\02. Infrastructures\Mvm.Infrastructures.Data.SqlServer\bin\Debug\net6.0\Mvm.Core.Domain.pdb
+D:\Mvm\src\02. Infrastructures\Mvm.Infrastructures.Data.SqlServer\bin\Debug\net6.0\Mvm.Framework.pdb
+D:\Mvm\src\02. Infrastructures\Mvm.Infrastructures.Data.SqlServer\obj\Debug\net6.0\Mvm.Infrastructures.Data.SqlServer.csproj.AssemblyReference.cache
+D:\Mvm\src\02. Infrastructures\Mvm.Infrastructures.Data.SqlServer\obj\Debug\net6.0\Mvm.Infrastructures.Data.SqlServer.GeneratedMSBuildEditorConfig.editorconfig
+D:\Mvm\src\02. Infrastructures\Mvm.Infrastructures.Data.SqlServer\obj\Debug\net6.0\Mvm.Infrastructures.Data.SqlServer.AssemblyInfoInputs.cache
+D:\Mvm\src\02. Infrastructures\Mvm.Infrastructures.Data.SqlServer\obj\Debug\net6.0\Mvm.Infrastructures.Data.SqlServer.AssemblyInfo.cs
+D:\Mvm\src\02. Infrastructures\Mvm.Infrastructures.Data.SqlServer\obj\Debug\net6.0\Mvm.Infrastructures.Data.SqlServer.csproj.CoreCompileInputs.cache
+D:\Mvm\src\02. Infrastructures\Mvm.Infrastructures.Data.SqlServer\obj\Debug\net6.0\Mvm.Infrastructures.Data.SqlServer.csproj.CopyComplete
+D:\Mvm\src\02. Infrastructures\Mvm.Infrastructures.Data.SqlServer\obj\Debug\net6.0\Mvm.Infrastructures.Data.SqlServer.dll
+D:\Mvm\src\02. Infrastructures\Mvm.Infrastructures.Data.SqlServer\obj\Debug\net6.0\refint\Mvm.Infrastructures.Data.SqlServer.dll
+D:\Mvm\src\02. Infrastructures\Mvm.Infrastructures.Data.SqlServer\obj\Debug\net6.0\Mvm.Infrastructures.Data.SqlServer.pdb
+D:\Mvm\src\02. Infrastructures\Mvm.Infrastructures.Data.SqlServer\obj\Debug\net6.0\Mvm.Infrastructures.Data.SqlServer.genruntimeconfig.cache
+D:\Mvm\src\02. Infrastructures\Mvm.Infrastructures.Data.SqlServer\obj\Debug\net6.0\ref\Mvm.Infrastructures.Data.SqlServer.dll
+H:\Mvm\src\02. Infrastructures\Mvm.Infrastructures.Data.SqlServer\bin\Debug\net6.0\Mvm.Infrastructures.Data.SqlServer.deps.json
+H:\Mvm\src\02. Infrastructures\Mvm.Infrastructures.Data.SqlServer\bin\Debug\net6.0\Mvm.Infrastructures.Data.SqlServer.runtimeconfig.json
+H:\Mvm\src\02. Infrastructures\Mvm.Infrastructures.Data.SqlServer\bin\Debug\net6.0\Mvm.Infrastructures.Data.SqlServer.dll
+H:\Mvm\src\02. Infrastructures\Mvm.Infrastructures.Data.SqlServer\bin\Debug\net6.0\Mvm.Infrastructures.Data.SqlServer.pdb
+H:\Mvm\src\02. Infrastructures\Mvm.Infrastructures.Data.SqlServer\bin\Debug\net6.0\Mvm.Core.Domain.dll
+H:\Mvm\src\02. Infrastructures\Mvm.Infrastructures.Data.SqlServer\bin\Debug\net6.0\Mvm.Framework.dll
+H:\Mvm\src\02. Infrastructures\Mvm.Infrastructures.Data.SqlServer\bin\Debug\net6.0\Mvm.Core.Domain.pdb
+H:\Mvm\src\02. Infrastructures\Mvm.Infrastructures.Data.SqlServer\bin\Debug\net6.0\Mvm.Framework.pdb
+H:\Mvm\src\02. Infrastructures\Mvm.Infrastructures.Data.SqlServer\obj\Debug\net6.0\Mvm.Infrastructures.Data.SqlServer.csproj.AssemblyReference.cache
+H:\Mvm\src\02. Infrastructures\Mvm.Infrastructures.Data.SqlServer\obj\Debug\net6.0\Mvm.Infrastructures.Data.SqlServer.GeneratedMSBuildEditorConfig.editorconfig
+H:\Mvm\src\02. Infrastructures\Mvm.Infrastructures.Data.SqlServer\obj\Debug\net6.0\Mvm.Infrastructures.Data.SqlServer.AssemblyInfoInputs.cache
+H:\Mvm\src\02. Infrastructures\Mvm.Infrastructures.Data.SqlServer\obj\Debug\net6.0\Mvm.Infrastructures.Data.SqlServer.AssemblyInfo.cs
+H:\Mvm\src\02. Infrastructures\Mvm.Infrastructures.Data.SqlServer\obj\Debug\net6.0\Mvm.Infrastructures.Data.SqlServer.csproj.CoreCompileInputs.cache
+H:\Mvm\src\02. Infrastructures\Mvm.Infrastructures.Data.SqlServer\obj\Debug\net6.0\Mvm.Infrastructures.Data.SqlServer.csproj.CopyComplete
+H:\Mvm\src\02. Infrastructures\Mvm.Infrastructures.Data.SqlServer\obj\Debug\net6.0\Mvm.Infrastructures.Data.SqlServer.dll
+H:\Mvm\src\02. Infrastructures\Mvm.Infrastructures.Data.SqlServer\obj\Debug\net6.0\refint\Mvm.Infrastructures.Data.SqlServer.dll
+H:\Mvm\src\02. Infrastructures\Mvm.Infrastructures.Data.SqlServer\obj\Debug\net6.0\Mvm.Infrastructures.Data.SqlServer.pdb
+H:\Mvm\src\02. Infrastructures\Mvm.Infrastructures.Data.SqlServer\obj\Debug\net6.0\Mvm.Infrastructures.Data.SqlServer.genruntimeconfig.cache
+H:\Mvm\src\02. Infrastructures\Mvm.Infrastructures.Data.SqlServer\obj\Debug\net6.0\ref\Mvm.Infrastructures.Data.SqlServer.dll
